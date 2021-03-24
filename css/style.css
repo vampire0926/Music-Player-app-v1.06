@@ -5,6 +5,7 @@ body{
      width: 100%;
      background-color: #ffb399;
      font-family: "Poppins", sans-serif;
+     overflow-y: hidden;
 }
 
 button{
@@ -26,6 +27,7 @@ button{
      position: relative;
      width: 245px;
      height: 450px;
+     margin-bottom: 50px;
      background-color: #000;
      border-width: 8px 4px !important;
      border:solid;

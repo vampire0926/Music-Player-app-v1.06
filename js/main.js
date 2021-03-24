@@ -197,3 +197,5 @@ function random() {
      playlist_index = randomIndex;
      fetchMusicDetails();
 }
+
+document.body.style.zoom = "110%";
