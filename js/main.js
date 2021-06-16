@@ -10,11 +10,11 @@ dir = "music/";
 
 playlist = ["RudeLies & Clarx", "Taki Taki", "astronaut", "booyah", "DJ Alok", "Goosebumps", "Shape of you"];
 
-title = ["RudeLies & Clarx", "DJ Snake Taki Taki", "Astronaut In The Ocean", "One More Round Booyah", "Vale-Vale DJ Alok ft", "HVME-Goosebumps Travis Scott", "Shape Of You ED Sheeran"];
+title = ["RudeLies & Clarx", "DJ Snake Taki Taki", "Astronaut In The Ocean", "One More Round Booyah", "Vale-Vale DJ Alok ft", "Goosebumps", "Shape Of You ED Sheeran"];
 
 artists = ["RudeLies & Clarx [NCS Release]", "DJ Snake", "Masked Wolf", "DJ KSHMR ft", "DJ Alok ft", "Goosebumps Travis Scott", "ED Sheeran"];
 
-poster = ["images/NCS.jpg", "images/ncs1.jpeg", "images/ncs2.jpg", "images/ncs3.jpg", "images/ncs4.jpg", "images/ncs5.jpg", "images/ncs6.jpg"];
+poster = ["images/NCS.jpg", "images/ncs1.jpg", "images/ncs2.jpg", "images/ncs3.jpg", "images/ncs4.jpg", "images/ncs5.jpg", "images/ncs6.jpg"];
 
 //Making it to run on every browser
 
