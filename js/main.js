@@ -8,13 +8,13 @@ let audio, playbtn, title, poster, artists, mutebtn, seekslider, volumeslider,
 
 dir = "music/";
 
-playlist = ["RudeLies & Clarx", "Cartoon-On-&-On", "Elektronomia", "Johnning", "Popsicle", "Fearless"];
+playlist = ["RudeLies & Clarx", "Taki Taki", "astronaut", "booyah", "DJ Alok", "Goosebumps", "Shape of you"];
 
-title = ["RudeLies & Clarx", "Cartoon - On & On", "Electronomia", "Janji-Heroes Tonight", "Popsicle", "Lost Sky-Fearless"];
+title = ["RudeLies & Clarx", "DJ Snake Taki Taki", "Astronaut In The Ocean", "One More Round Booyah", "Vale-Vale DJ Alok ft", "HVME-Goosebumps Travis Scott", "Shape Of You ED Sheeran"];
 
-artists = ["RudeLies & Clarx [NCS Release]", "(feat. Daniel Levi) [NCS Release]", "Elektronomia-Sky High [NCS Release]", "(feat. Johnning) [NCS Release]", "LFZ - [NCS Release]", "(feat. Chris Linton) [NCS Release]"];
+artists = ["RudeLies & Clarx [NCS Release]", "DJ Snake", "Masked Wolf", "DJ KSHMR ft", "DJ Alok ft", "Goosebumps Travis Scott", "ED Sheeran"];
 
-poster = ["images/NCS.jpg", "images/ncs1.jpeg", "images/ncs2.jpg", "images/ncs3.jpg", "images/ncs4.jpg", "images/ncs5.jpg"];
+poster = ["images/NCS.jpg", "images/ncs1.jpeg", "images/ncs2.jpg", "images/ncs3.jpg", "images/ncs4.jpg", "images/ncs5.jpg", "images/ncs6.jpg"];
 
 //Making it to run on every browser
 
